@@ -1,0 +1,5 @@
+# Trends in School Performance
+
+Students attending the schools with lower budgets tend to underperform in both math and reading compared to students attending the schools with larger budgets. From the "Scores by School Spending” data, we can see that higher average spending ranges per student correlates to lower overall passing rates.
+
+Students attending the charter schools tend to outperform in both math and reading compared to students attending the district schools. The "Scores by School Type” data shows that students attending the charter schools have higher overall passing rates compared with students attending the district schools. Moreover the “Top Performing Schools” data shows that students attending the charter schools have higher overall passing rates whereas the “Bottom Performing Schools” data shows that students attending the district schools have lower overall passing rates.
